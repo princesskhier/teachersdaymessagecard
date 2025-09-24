@@ -55,3 +55,5 @@ script.js: Change the value of the customMessage variable to write a new note to
 index.html: Update the teacher's name in the <h2> tag and the student's name in the .signature paragraph on the back of the card.
 
 css.css: Adjust the background gradients on the body, .flip-card-front, and .flip-card-back to change the card's color scheme.
+
+link: https://princesskhier.github.io/teachersdaymessagecard/
